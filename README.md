@@ -7,4 +7,4 @@ ACCESS_TOKEN_SECRET=<> \
 CONSUMER_KEY=<>\
 CONSUMER_SECRET=<>
 
-then run main.py.
+then run main.py
