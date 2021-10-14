@@ -1,0 +1,5 @@
+reportlab
+python-dotenv
+tweepy
+requests
+svglib
