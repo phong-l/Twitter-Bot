@@ -9,5 +9,5 @@ CONSUMER_SECRET=<>
 
 then run main.py
 
-(UPDATE 18/11): OpenSea now requires an API key. Request one at https://docs.opensea.io/reference/request-an-api-key
-\Additional field added to headers to reflect this change
+(UPDATE 18/11): OpenSea now requires an API key. Request one at https://docs.opensea.io/reference/request-an-api-key \
+Additional field added to headers to reflect this change
