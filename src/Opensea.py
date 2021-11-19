@@ -6,7 +6,7 @@ from src import Tweet
 def query():
     url = "https://api.opensea.io/api/v1/events"
     querystring = {"event_type": "successful", "only_opensea": "false", "offset": "0", "limit": "200"}
-    headers = {"Accept": "application/json"}
+    headers = {"Accept": "application/json", "X-API-KEY": ""}
     response = requests.request("GET", url, headers=headers, params=querystring)
     response = response.json()['asset_events']
 
